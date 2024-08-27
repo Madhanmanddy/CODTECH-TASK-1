@@ -43,3 +43,10 @@
 
 ### Step5 : The result will be printed.
 
+
+
+
+
+![Screenshot 2024-08-15 113739](https://github.com/user-attachments/assets/3b21a7ef-a9a7-4124-82b9-03d047691450)
+
+
